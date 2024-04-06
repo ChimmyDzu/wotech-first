@@ -1,2 +1,1 @@
-# wotech-first
 WoTech stuff
